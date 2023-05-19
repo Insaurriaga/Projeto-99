@@ -1,0 +1,71 @@
+#foto1
+{
+    height: 50%;
+    width: 30%;
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#foto2
+{
+    height: 50%;
+    width: 30%;
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#foto3
+{
+    height: 50%;
+    width: 30%;
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#botaoIniciar
+{
+    background-color: rgb(79, 79, 192);
+    color: white;
+    height: 6%;
+    width: 8%;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.bodyBackground
+{
+    background-image: url(background.jpg);
+}
+#Titulo
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 200;
+}
+#suaWebcam
+{
+    height: 400px;
+    width: 500px;
+    color: blue;
+}
+#foto1:hover
+{
+    border-radius: 140px;
+}
+#foto2:hover
+{
+    border-radius: 140px;
+}
+#foto3:hover
+{
+    border-radius: 140px;
+}
+.column
+{
+    display: inline;
+    padding: 10px;
+}
